@@ -9,38 +9,7 @@ Capture an image using the device's camera.
 Choose an image from the gallery.
 Process the selected image using Google ML Kit Image Labeling.
 Display the results with descriptive labels.
-Getting Started
 
-
-
-Follow these steps to set up and run the Image Labeling Flutter App:
-
-Clone the Repository:
-
-bash
-Copy code
-git clone https://github.com/your-username/image-labeler-flutter.git
-Navigate to the Project:
-
-bash
-Copy code
-cd image-labeler-flutter
-Install Dependencies:
-
-bash
-Copy code
-flutter pub get
-Run the App:
-
-bash
-Copy code
-flutter run
-Usage
-Launch the app on your device or emulator.
-
-Use the "Choose" button to select an image from the gallery or the "Capture" button to take a photo using the device's camera.
-
-The selected image will be processed using Google ML Kit Image Labeling, and the results will be displayed on the screen.
 
 Dependencies
 image_picker: Provides functionality to choose or capture images.
